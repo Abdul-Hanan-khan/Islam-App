@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963388794073",
+    "project_id": "islamapp-c96d4",
+    "storage_bucket": "islamapp-c96d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963388794073:android:f6ca02e8e253965b798ac8",
+        "android_client_info": {
+          "package_name": "com.example.islam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963388794073-346qv77rjf3p04l84s5p68sc7s3bj26b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-Gw8JCeJMtbU94QvcNh3U7062Gkcw-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963388794073-346qv77rjf3p04l84s5p68sc7s3bj26b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
